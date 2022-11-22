@@ -7,4 +7,4 @@
    * Сайт сделан адаптивным к расширениям экрана от 320px до 1280px.
    * Применяется псевдоэлемент ::before для создания подложки под изображение.
 
-[Проект на GitHub Pages]()
+[Проект на GitHub Pages](https://valeriyamorozova96.github.io/russian-travel/)
